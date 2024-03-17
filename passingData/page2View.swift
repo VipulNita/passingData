@@ -22,7 +22,7 @@ struct page2View: View {
             } placeholder: {
                 ProgressView()
             }
-            .frame(width: 200, height: 300)
+            .frame(width: 100, height: 100)
         }
         .padding()
     }
