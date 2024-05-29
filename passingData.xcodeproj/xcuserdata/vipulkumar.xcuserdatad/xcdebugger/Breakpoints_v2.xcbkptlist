@@ -3,4 +3,115 @@
    uuid = "19D6FF6A-A87B-4D30-95D5-D141536A3146"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E07956C9-EDDB-47B0-BBD7-3C91A0474420"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "passingData/page2View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "page2View"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "E07956C9-EDDB-47B0-BBD7-3C91A0474420 - 57891806a7f271ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passingData.page2View.text3.getter : Swift.String"
+                  moduleName = "passingData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulkumar/Desktop/Development/passingData/passingData/page2View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "E07956C9-EDDB-47B0-BBD7-3C91A0474420 - 63008d31fcf363b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passingData.page2View.text3.setter : Swift.String"
+                  moduleName = "passingData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulkumar/Desktop/Development/passingData/passingData/page2View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E07956C9-EDDB-47B0-BBD7-3C91A0474420 - 4383e61345e95fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passingData.page2View.text3.modify : Swift.String"
+                  moduleName = "passingData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulkumar/Desktop/Development/passingData/passingData/page2View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E07956C9-EDDB-47B0-BBD7-3C91A0474420 - 51507762979e7b75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passingData.page2View.text3.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "passingData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulkumar/Desktop/Development/passingData/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E07956C9-EDDB-47B0-BBD7-3C91A0474420 - 616713c4f26d2f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passingData.page2View.$text3.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "passingData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulkumar/Desktop/Development/passingData/passingData/page2View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "511BBB77-4A8F-46E2-8BA3-E8CD8CEE79BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "passingData/page2View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
