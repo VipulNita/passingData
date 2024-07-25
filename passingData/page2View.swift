@@ -16,12 +16,17 @@ struct page2View: View {
             Image(systemName: "folder.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Recieved from page 1 \(text3)")
+                .scaledToFit()
             AsyncImage(url: URL(string: text3)) { image in
                 image.resizable()
+                    .scaledToFit()
+                    .frame(width: 600, height: 300)
             } placeholder: {
                 ProgressView()
             }
+            Text("Recieved from page 1 \(text3)")
+        }
+        .padding()
 //            .aspectRatio(contentMode: isImageBig ? .fit : .fill )
 //
 //            //                    .frame(width: 600, height: 300)
@@ -34,7 +39,22 @@ struct page2View: View {
 //            .frame(width: 100, height: 100)
         }
 //        .padding()
+
+func getDataFromServer() async throws {
+    let url = URL(string:" ")!
+    guard let url = URL(string: <#T##String#>) else{
+        throw URLError(.badURL)
     }
+    
+    let (data,response) = try await URLSession.shared.data(from: url)
+//    used paranthesis because we use tuple-> two data types in one type-> 2 (integer,string)
+    guard
+    let response = response as? HTTPURLResponse,
+    response.statusCode >= 200 && response.statusCode < 300
+    else{
+        throw URLError(.unknown)
+    }
+}
 
 
 
