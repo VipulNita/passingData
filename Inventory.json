@@ -1,5 +1,5 @@
-
 {
+ 'inventories'{
   "files": [
     {
       
@@ -38,4 +38,5 @@
       "url": "https://drive.usercontent.google.com/download?id=1ovfmjdC3IjLFMdDreMF_EQeKM3Uw7Quv&export=download&authuser=0&confirm=t&uuid=2a9a1e02-4033-484b-967d-dcb8d9d88607&at=APZUnTVmDc7B6pPdZWncBLqnyw3J:1721890371894"
     }
   ]
+  }
 }
